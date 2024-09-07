@@ -1,0 +1,8 @@
+Investigation.Type: Identifies the type of occurence that happened wether an incident or accident with the aircraft.	
+
+        Accident :
+        Incident :means any occurrence, other than an accident, 
+        that is associated with the operation of an aircraft and affects, or could affect,
+        the safety of operation.
+
+
