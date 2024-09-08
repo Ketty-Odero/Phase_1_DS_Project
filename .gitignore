@@ -1,3 +1,6 @@
 nano .gitignore
 
 git rm --cached USState_Codes.csv
+.DS_Store
+Thumbs.db
+
