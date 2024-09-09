@@ -1,8 +1,19 @@
 Investigation.Type: Identifies the type of occurence that happened wether an incident or accident with the aircraft.	
 
-        Accident :
+        Accident :An occurrence associated with the operation of an aircraft which, 
+        in the case of a manned aircraft, takes place between the time any 
+        person boards the aircraft with the intention of flight until such time as all such persons have disembarked
+
         Incident :means any occurrence, other than an accident, 
         that is associated with the operation of an aircraft and affects, or could affect,
         the safety of operation.
 
+Weather conditions: shows the weather conditions in aviation flight category	
 
+        Visual Meteorological Conditions(VMC) :meteorological conditions expressed in terms of visibility, 
+        distance from cloud, and ceiling equal to or better than specified minima
+
+        Instrument meteorological conditions(IMC) :weather conditions that require pilots to fly primarily by 
+        reference to instruments, and therefore under IFR .
+
+        Unalakleet Airport Current Conditions(UNK)
